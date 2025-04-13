@@ -44,3 +44,4 @@ Built using HTML, CSS, and JavaScript for front-end development.
 
 Responsive design ensures a seamless experience across various devices, from desktops to tablets and mobile phones.
 # output
+![Image](https://github.com/user-attachments/assets/6a712222-49a1-4c40-98f1-d8969723c18a)
